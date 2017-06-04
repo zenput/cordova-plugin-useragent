@@ -8,9 +8,9 @@
 	</engines>
 	<name>User-Agent</name>
 	<description>Allows you to change your User-Agent for HTTP requests.</description>
-	<author>Louis T.</author>
+	<author>Daniel Sogl</author>
 	<keywords>user,agent,useragent,user-agent</keywords>
-	<license>Apache 2.0 License</license>
+	<license>MIT</license>
 	<js-module src="www/UserAgent.js" name="UserAgent">
 		<clobbers target="UserAgent" />
 	</js-module>
