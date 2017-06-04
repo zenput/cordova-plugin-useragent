@@ -1,4 +1,4 @@
-package com.danielsogl.cordova.useragent;
+package im.ltdev.cordova;
 
 import org.apache.cordova.CordovaWebView;
 import org.apache.cordova.CallbackContext;

@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-useragent",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Allows you to change your User-Agent for HTTP requests.",
   "cordova": {
     "id": "com.danielsogl.cordova.useragent",
