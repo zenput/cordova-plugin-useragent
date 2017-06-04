@@ -1,4 +1,4 @@
-package im.ltdev.cordova;
+package com.danielsogl.cordova.useragent;
 
 import org.apache.cordova.CordovaWebView;
 import org.apache.cordova.CallbackContext;
@@ -18,7 +18,7 @@ public class UserAgent extends CordovaPlugin {
 
         @Override
         public void initialize(CordovaInterface cordova, CordovaWebView webView) {
-            
+
             super.initialize(cordova, webView);
 
             try{
