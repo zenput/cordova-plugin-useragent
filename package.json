@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-useragent",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "description": "Allows you to change your User-Agent for HTTP requests.",
   "cordova": {
     "id": "com.danielsogl.cordova.useragent",
@@ -21,12 +21,6 @@
     "ecosystem:cordova",
     "cordova-android",
     "cordova-ios"
-  ],
-  "engines": [
-    {
-      "name": "cordova",
-      "version": ">=4.0.0"
-    }
   ],
   "author": "Daniel Sogl",
   "license": "MIT",
