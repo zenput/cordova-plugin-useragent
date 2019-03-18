@@ -3,7 +3,7 @@
   "version": "1.0.6",
   "description": "Allows you to change your User-Agent for HTTP requests.",
   "cordova": {
-    "id": "com.danielsogl.cordova.useragent",
+    "id": "cordova-plugin-useragent",
     "platforms": [
       "android",
       "ios"
