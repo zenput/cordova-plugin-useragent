@@ -1,6 +1,6 @@
 {
-  "name": "cordova-plugin-useragent",
-  "version": "1.0.6",
+  "name": "@zenput/cordova-plugin-useragent",
+  "version": "1.0.6-zp1",
   "description": "Allows you to change your User-Agent for HTTP requests.",
   "cordova": {
     "id": "cordova-plugin-useragent",
