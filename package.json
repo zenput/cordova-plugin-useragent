@@ -3,7 +3,7 @@
   "version": "1.0.6-zp1",
   "description": "Allows you to change your User-Agent for HTTP requests.",
   "cordova": {
-    "id": "cordova-plugin-useragent",
+    "id": "@zenput/cordova-plugin-useragent",
     "platforms": [
       "android",
       "ios"
